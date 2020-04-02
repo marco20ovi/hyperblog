@@ -19,3 +19,7 @@ esta es la prueba de si mi nuva rama practica funciona como yo quiero que funcio
 
 
 es mi segunda linea de codigo en github me gusta esta ingterface y esa concexion con git bash
+
+
+
+ahora quiero enviar esta linea desde mi computadora a git hub
