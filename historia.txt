@@ -23,3 +23,6 @@ es mi segunda linea de codigo en github me gusta esta ingterface y esa concexion
 
 
 ahora quiero enviar esta linea desde mi computadora a git hub
+
+
+ahora quiero enviar esta linea desde git hub a mi pc
