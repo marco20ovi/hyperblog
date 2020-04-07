@@ -28,3 +28,6 @@ ahora quiero enviar esta linea desde mi computadora a git hub
 ahora quiero enviar esta linea desde git hub a mi pc
 
 ahora quiero volver a enviar esta linea desde mi pc a git hub
+
+
+ahora este es el cambio de git bash a 6/4/2020
