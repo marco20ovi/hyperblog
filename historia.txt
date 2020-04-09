@@ -31,3 +31,6 @@ ahora quiero volver a enviar esta linea desde mi pc a git hub
 
 
 ahora este es el cambio de git bash a 6/4/2020
+
+
+hola que tal es el cambio hecho por marco2020
